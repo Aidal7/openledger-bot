@@ -68,6 +68,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
 
 Extension link : [Extension](https://chromewebstore.google.com/detail/openledger-node/ekbbplmjjgoobhdlffmgeokalelnmjjc)
-Dashboard Link : [Dashboard](https://testnet.openledger.xyz/?referral_code=ffqrnwqlzq)
+Dashboard Link : [Dashboard](https://testnet.openledger.xyz/?referral_code=nvfzrr43rq)
 
-My reff code if you want to use :) : https://testnet.openledger.xyz/?referral_code=ffqrnwqlzq
+My reff code if you want to use :) : https://testnet.openledger.xyz/?referral_code=nvfzrr43rq
